@@ -16,7 +16,7 @@ from sklearn.cluster import KMeans
 # In[7]:
 
 
-data = pd.read_csv(r'C:\Users\mahsh\OneDrive\Desktop\RBC Interview\data.csv')
+data = pd.read_csv(r'C:\Users\mahsh\OneDrive\Desktop\data.csv')
 data
 
 
